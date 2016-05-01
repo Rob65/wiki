@@ -231,6 +231,7 @@ However, for testing it's nice if you don't all use the same device addresses.
 | `02:03:48:xx` | ThijsFeenstra (Groningen, NL) |
 |||
 | `02:03:D0:xx` | hans-d |
+| `02:03:E0:xx` | Rob65 (Nijmegen, NL) |
 |||
 | `02:73:88:xx` | UrbanGrid (UA) |
 | `02:73:90:xx` | TTN M-tricht tbv Zuyd |
